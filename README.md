@@ -133,6 +133,8 @@ final_color /= samples  # 平均
 
 ## 四、运行录屏
 
+<img width="800" height="600" alt="RayTracing-GlassMSAA58 839421FPS2026-06-2920-52-17-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e7d1aa1e-440e-4b37-9002-48755dced0e8" />
+
 
 ## 五、总结
 
